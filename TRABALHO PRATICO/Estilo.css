@@ -1,0 +1,40 @@
+body {    
+    
+    font-family: Arial, 
+    sans-serif;    margin: 0;   
+     padding: 0;
+    }
+
+     nav {    
+        background-color: hsl(0, 0%, 20%);   
+         color: #fff; 
+         text-align: center;
+        }
+         nav ul {    
+            list-style: none;  
+              padding: 0;}
+              nav ul li {    display: inline;   
+                 margin-right: 20px;
+                }
+
+              nav ul li a {  
+                  text-decoration: none;  
+                    color: #ffffff;
+                }
+
+                img {
+                    width: 200px;
+                    height: auto;  /* A altura será ajustada automaticamente */
+                  }
+                  
+            
+                  /* Define apenas a altura, mantendo a proporção da largura */
+                  img {
+                    
+                   
+                  width: auto;
+                    
+                   
+                  height: 150px;
+                  }
+                  
